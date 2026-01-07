@@ -27,8 +27,6 @@ const Index = () => {
         </header>
 
         <main className="flex-1 flex flex-col p-6 justify-center">
-          <div className="mt-16">
-            <img 
           
             />
             <h1 className="text-4xl font-bold mb-4">Get Your Account Ready And Instantly.</h1>
