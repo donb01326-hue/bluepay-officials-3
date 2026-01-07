@@ -131,12 +131,12 @@ const BuyBPCPayment = () => {
 
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Bank Name</p>
-          <p className="text-lg font-bold">ZENITH EAZY WALLET</p>
+          <p className="text-lg font-bold">Zenith EAzy wallet</p>
         </div>
 
         <div className="mb-3 border-t pt-3">
           <p className="text-gray-500 text-xs">Account Name</p>
-          <p className="text-lg font-bold">AROWOJOLU  ABIDEMI</p>
+          <p className="text-lg font-bold">AROWOJOLU ABIDEMI</p>
         </div>
       </div>
 
